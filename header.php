@@ -1,3 +1,9 @@
+<?php 
+	
+	session_start()
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,6 +18,19 @@
 				<ul>
 					<li>
 						<a href="index.php">Home</a>
+					</li>
+					<li>
+						<a href="catIndex.php">View categories</a>
+					</li>
+					<li>
+						<a href="postCat.php">Post Category</a>
+					</li>
+					<li>
+						<a href="postItem.php">Post Item</a>
+					</li>
+
+					<li>
+						<a href="cart.php">View Cart</a>
 					</li>
 				</ul>
 			</div>

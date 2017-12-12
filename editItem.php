@@ -1,0 +1,5 @@
+<!-- WILL CONTAIN VISUAL CODE FOR EDITING AN ITEM -->
+
+<html>
+	<h1>EDIT ITEM PAGE</h1>
+</html>
